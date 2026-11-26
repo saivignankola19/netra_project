@@ -21,7 +21,7 @@ body
 {
     min-height: 82px;
     display: flex;
-    align-items: flex end;
+    align-items: center;
     padding: 15px 4%;
     background-color: #111f34;
     color: white;
